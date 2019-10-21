@@ -4,3 +4,6 @@
 - It sends sms info about temperture and humidity in every 3 hour to you phone number.
 - Also it can show data on display,when you press power button.(screen off after 10 second , since button press)
 - It needs very low power,because of sleep mode
+
+
+![](demo.jpg)
