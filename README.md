@@ -5,6 +5,5 @@
 - Also it can show data on display,when you press power button.(screen off after 10 second , since button press)
 - It needs very low power,because of sleep mode
 
-If you want to buy me coffee or beer https://paypal.me/nobotro
-
+ 
 ![](demo.jpg)
